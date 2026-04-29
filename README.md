@@ -43,14 +43,23 @@ OptiStock est une solution Full-Stack moderne de gestion de stock conçue pour l
 
 
 ├── backend/
+
 │   ├── main.py          # Logique API, Routes et Algorithmes
+
 │   ├── database.db      # Base de données SQLite
+
 │   └── venv/            # Environnement virtuel
+
 └── frontend/
+
     ├── src/
+    
     │   ├── pages/       # Home, Login, Register, Dashboard, Analytics, Settings
+    
     │   ├── App.jsx      # Configuration des routes
+    
     │   └── main.jsx     # Point d'entrée React
+    
     └── package.json     # Dépendances Frontend
     
 5-Algorithmes Implémentés
